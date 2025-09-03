@@ -23,8 +23,11 @@ It ensures that PAN data follows the correct format and eliminates invalid or su
 ## 📂 Project Structure  
 
 ├── PAN Number Validation Dataset.xlsx # Input dataset
+
 ├── PAN VALIDATION RESULT.xlsx # Output (Validations + Summary)
+
 ├── pan_validation.ipynb # Jupyter Notebook with full workflow
+
 └── README.md # Project documentation
 
 📊 Output Summary
@@ -42,3 +45,13 @@ Charts: Bar and Pie chart showing distribution of:
 ❌ Invalid PANs
 
 ⚠ Missing PANs
+
+🔑 Use Cases
+
+Financial data cleaning
+
+Fraud detection
+
+Compliance reporting
+
+Bulk PAN verification
